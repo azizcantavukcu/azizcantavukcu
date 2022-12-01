@@ -4,5 +4,5 @@
 
 
 ### 🔭 I’m currently working on TanKauçuk A.Ş.
-### 🌱 I’m currently learning Golive & Vitra SAP Bootcamp
+### 🌱 I’m currently learning Golive & Vitra SAP Bootcamp - Patika.dev
 ### ✉️  You can contact me at azizcantavukcu@gmail.com
